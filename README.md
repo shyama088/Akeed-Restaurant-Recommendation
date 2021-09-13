@@ -4,7 +4,7 @@ discovery platform for everything people need instantly. Akeed approaches the di
 food delivery by taking the order, routing it to a restaurant, picking up the order and delivering it
 to the customer.
 
-1. ****Business Problem****
+1.****Business Problem****
 
 The objective of this challenge is to build a recommendation engine to predict what restaurants
 customers are most likely to order from given the customer location, restaurant information, and
@@ -16,7 +16,7 @@ order history of the customer
 
 ![image](https://user-images.githubusercontent.com/59326106/133022222-275cef97-a3c9-4954-a119-320f236e7e74.png)
 
-2. **ML formulation of the business problem**
+2.**ML formulation of the business problem**
 
 For a given customer at a given location number and restaurant, predict if the customer will order from the restaurant or not.
 The goal is to make customized recommendations to the customer. Therefore it is a
@@ -34,7 +34,7 @@ the next time. In this case, R3(McDonald’s) is recommended because of R1 (KFC)
 customer know this, will increase the trust of the customer in the recommendation system
 Hence some form of interpretability is required
 
-4. **Datasets**
+4.**Datasets**
 
 1. Orders
 2. Vendors (Restaurant)
@@ -44,7 +44,7 @@ Hence some form of interpretability is required
 6. Test customers (location of the customers)
 
 
-5. **Performance metric**
+5.**Performance metric**
 
 The error metric is the F1 score, which ranges from 0 (total failure) to 1 (perfect score). Hence,
 the closer your score is to 1, the better your model.
