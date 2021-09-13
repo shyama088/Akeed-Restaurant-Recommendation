@@ -41,7 +41,7 @@ Hence some form of interpretability is required
 *  Train customers
 *  Train location (location of the customers)
 *  Test customers
-*  Test customers (location of the customers)
+*  Test location (location of the customers)
 
 
 5. **Performance metric**
