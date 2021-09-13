@@ -20,8 +20,8 @@ order history of the customer
 
 For a given customer at a given location number and restaurant, predict if the customer will order from the restaurant or not.
 The goal is to make customized recommendations to the customer. Therefore it is a
-recommendation. It can also be seen as a classification problem (if the user will order or not
-order from a restaurant
+recommendation problem. It can also be seen as a classification problem (if the user will order or not
+order from a restaurant. If the predicted value is 1, it implies that the the given restauarant is recommended to the customer
 
 3. **Business constraints**
 
