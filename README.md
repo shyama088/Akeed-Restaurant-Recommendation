@@ -43,8 +43,8 @@ Hence some form of interpretability is required
 5. Test customers
 6. Test customers (location of the customers)
 
-**
-Performance metric:**
+
+**Performance metric:**
 
 The error metric is the F1 score, which ranges from 0 (total failure) to 1 (perfect score). Hence,
 the closer your score is to 1, the better your model.
@@ -59,4 +59,4 @@ where:
 TP=True Positive FP=False Positive
 TN=True Negative FN=False Negative
 
-**Link : ** https://zindi.africa/competitions/akeed-restaurant-recommendation-challenge
+**Link :** https://zindi.africa/competitions/akeed-restaurant-recommendation-challenge
